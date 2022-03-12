@@ -15,7 +15,7 @@ ganhou = 0  # serve pra parar o jogo quando alguem ganhar
 print(colored("### BEM VINDO(a) AO LIG4! ###", "yellow"))
 nome1 = input("Digite o nome do primeiro jogador: ").upper()
 nome2 = input("Digite o nome do segundo jogador: ").upper()
-tamanho = (4, 4)  # serve pra setar o tamanho do jogo infinito
+tamanho = (6, 7)  # serve pra setar o tamanho do jogo infinito
 colunas = tamanho[1]
 contador1 = 0
 contador2 = 0
